@@ -25,4 +25,3 @@ Future Improvements:
 
 
 <h3>Screenshot</h3>
-![](mp3.gif)
